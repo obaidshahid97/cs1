@@ -1,1 +1,1 @@
-LabAssignment_5
+LabAssignments
